@@ -1,11 +1,11 @@
 import json,os
 PLUGIN_METADATA = {
 	'id': 'betterwhitelist',
-	'version': '20210116',
+	'version': '20210118',
 	'name': 'BetterWhitelist',
-	'description': 'A highly customizable MCDR whitelist plugin',
+	'description': 'A MCDR whitelist plugin that supports highly customizable',
 	'author': 'Guang_Chen_',
-	'link': 'https://github.com/GuangChen2333/BetterWhitelist',
+	'link': 'https://github.com/Infinity-Technology-Union/BetterWhitelist',
 	'dependencies': {
 		'mcdreforged': '>=1.0.0',
 	}
